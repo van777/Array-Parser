@@ -1,2 +1,2 @@
 # Array-Parser
-parses array into ascci table
+parses array into ASCII table
